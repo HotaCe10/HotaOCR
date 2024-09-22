@@ -59,10 +59,6 @@ Para ejecutar la aplicación:
 - `languages.json`: Archivo de traducciones para la interfaz multilingüe
 - `assets/`: Directorio que contiene los iconos utilizados en la interfaz
 
-## Contribuir
-
-Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambios mayores antes de crear un pull request. Al contribuir a este proyecto, aceptas que tus contribuciones se licenciarán bajo la misma licencia GPLv3.
-
 ## Licencia
 
 Este proyecto está licenciado bajo la GNU General Public License v3.0 (GPLv3). Esto significa que puedes usar, modificar y distribuir este software libremente, pero cualquier trabajo derivado debe distribuirse bajo la misma licencia GPLv3.
