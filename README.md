@@ -22,19 +22,19 @@ OCR App es una aplicación de escritorio multiplataforma para el reconocimiento 
 ```
 
 git clone [https://github.com/tu-usuario/ocr-app.git](https://github.com/tu-usuario/ocr-app.git)
-
+```
 
 2. Crea un entorno virtual (opcional, pero recomendado):
-
+```
 python -m venv venv
 
 source venv/bin/activate  # En Windows usa venv\Scripts\activate
-
+```
 
 3. Instala las dependencias:
-
+```
 pip install -r requirements.txt
-
+```
 
 ## Uso
 
