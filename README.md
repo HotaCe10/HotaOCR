@@ -1,5 +1,7 @@
 # HotaOCR
-OCR App es una aplicación de escritorio multiplataforma para el reconocimiento óptico de caracteres (OCR) en imágenes. Utiliza PaddleOCR para el reconocimiento de texto y PyQt5 para la interfaz gráfica de usuario.
+
+HotaOCR es una aplicación de escritorio multiplataforma para el reconocimiento óptico de caracteres (OCR) en imágenes. Utiliza PaddleOCR para el reconocimiento de texto y PyQt5 para la interfaz gráfica de usuario.
+
 ## Características
 
 - Interfaz gráfica de usuario intuitiva
@@ -20,22 +22,21 @@ OCR App es una aplicación de escritorio multiplataforma para el reconocimiento 
 
 1. Clona este repositorio:
 ```
+
 git clone [https://github.com/tu-usuario/ocr-app.git](https://github.com/tu-usuario/ocr-app.git)
-```
+
 
 2. Crea un entorno virtual (opcional, pero recomendado):
-```
-python -m venv venv
-```
 
-```
+python -m venv venv
+
 source venv/bin/activate  # En Windows usa venv\Scripts\activate
-```
+
 
 3. Instala las dependencias:
-```
+
 pip install -r requirements.txt
-```
+
 
 ## Uso
 
@@ -58,6 +59,10 @@ Para ejecutar la aplicación:
 - `requirements.txt`: Lista de dependencias del proyecto
 - `languages.json`: Archivo de traducciones para la interfaz multilingüe
 - `assets/`: Directorio que contiene los iconos utilizados en la interfaz
+
+## Contribuir
+
+Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambios mayores antes de crear un pull request. Al contribuir a este proyecto, aceptas que tus contribuciones se licenciarán bajo la misma licencia GPLv3.
 
 ## Licencia
 
