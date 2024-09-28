@@ -30,13 +30,13 @@ git clone [https://github.com/tu-usuario/ocr-app.git](https://github.com/tu-usua
 ```
 python -m venv venv
 ```
-Activamos el entorno
+3. Activamos el entorno
 
 ```
 source venv/bin/activate  # En Windows usa venv\Scripts\activate
 ```
 
-3. Instala las dependencias:
+4. Instala las dependencias:
 
 ```
 pip install -r requirements.txt
