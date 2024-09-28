@@ -15,7 +15,7 @@ HotaOCR es una aplicación de escritorio multiplataforma para el reconocimiento 
 
 ## Requisitos previos
 
-- Python 3.7 o superior
+- Python 3.10.11 o superior (Comprobado)
 - pip (gestor de paquetes de Python)
 
 ## Instalación
